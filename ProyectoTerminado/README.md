@@ -64,4 +64,5 @@ El nombre del archivo de ser unicamente el nombre, sin agregar .txt al final.
 
 
 9. Para tener como resultado, en nuestro ejemplo, lo siguiente:
-10. 
+
+![Programa1](./Imagenes/9.png)
