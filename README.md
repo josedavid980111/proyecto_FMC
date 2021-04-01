@@ -39,7 +39,7 @@ El nombre del archivo de ser unicamente el nombre, sin agregar .txt al final.
 4. A continuación como el for nos arreojara toda la linea, tendremoss que filtrarla para obetner unicamente el nombre de las variables, el problema aqui es que si existe alguna variable de tipo arreglo dentro de esta linea se guardara por el momento como del tipo que se define en esa linea.
 
 
-5.En seguida comenzaremos a buscar todas aquellas variabless que contengan un [], conforme vayamos encontrando las variables, iremos sacandolas de las que anteriormente habiamos guardado según el tipo de la linea en la que se encontraban.
+5. En seguida comenzaremos a buscar todas aquellas variabless que contengan un [], conforme vayamos encontrando las variables, iremos sacandolas de las que anteriormente habiamos guardado según el tipo de la linea en la que se encontraban.
 
 6. Continuando con la busqueda de variables, comenzaremos a hacer lo mismo que hicimos en el punto 3, pero ahora con el tipo arreglo, y debido a que ya tenemos aquellos nombres de arreglos que se encontraban en algunas lineas de ciertos tipos de variables, nos enfocaremos ahora en aquellos que se definen como arreglos despues de asignar el tipo de variable que es, un ejemplo es int[] var1, esta variable se le define como arreglo despues de elegir el tipo de valor que contendra.
 Para esto haremos lo mismo que en el punto 3, solo que la diferencia sera que buscaremos aquellas variables que ya no solo empiecen con int, sino que contengan [] despues de el tipo de valor.
