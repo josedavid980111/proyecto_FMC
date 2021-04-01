@@ -61,3 +61,7 @@ El nombre del archivo de ser unicamente el nombre, sin agregar .txt al final.
 ![Programa1](./Imagenes/7.png)
 
 ![Programa1](./Imagenes/8.png)
+
+
+9. Para tener como resultado, en nuestro ejemplo, lo siguiente:
+10. 
